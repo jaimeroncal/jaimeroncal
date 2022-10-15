@@ -3,12 +3,13 @@
 
 <!-- 🦖 DINOSAUR 🦖 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/>
+  <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
+  <img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>
 </div>
 
 <!-- 😍 SOCIAL MEDIA 😍 -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jaime-roncal-600673238" target="_blank">
+  <a href="https://www.linkedin.com/in/jaime-roncal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtu.be/dQw4w9WgXcQ">
@@ -24,23 +25,28 @@
 <img src="https://komarev.com/ghpvc/?username=jaimeroncal&style=flat-square&color=blue" alt=""/>
 </div>
 
----
+
 <!-- ⚠️ UNDER CONSTRUCTION ⚠️-->
-### ⚠️ Page under construction
+<!--### ⚠️ Page under construction
 
 <div id="workingonit" align="center">
   <img src="https://maggiebrennan.com/press/img/underconstruction.gif" width="300"/>
 </div>
 
----
+--- -->
 <!-- EMOJIS REPO:  https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+---
+<!-- 🧍 ABOUT ME 🧍 -->
 ### :man_technologist: About Me :
-Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zaragoza, Spain.
+<div align="center">
+  My name is Jaime Roncal and i'm a Computer Science student &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; from Zaragoza, Spain.
+</div>
 
 ---
+<!-- 💻 LANGUAJES 💻 -->
 <!-- ICONS REPO:  https://github.com/devicons/devicon/tree/master/icons -->
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -68,9 +74,14 @@ Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 </div>
 
+<!-- 🔥 MY STATS 🔥 -->
 ---
 ### :fire: My Stats :
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jaimeroncal&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaimeroncal&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/UNIZAR-30226-2022-04/Android)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeroncal&layout=compact)](https://github.com/UNIZAR-30226-2022-04/Android)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeroncal&layout=compact)](https://github.com/UNIZAR-30226-2022-04/Android) 
+--->
