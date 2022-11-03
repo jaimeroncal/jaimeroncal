@@ -3,15 +3,17 @@
 
 <!-- 🦖 DINOSAUR 🦖 -->
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
-  <img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>
+     <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
+     <a href="https://www.jaimeroncal.com" target="_blank">
+          <img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>
+     </a>
 </div>
 
 <!-- 😍 SOCIAL MEDIA 😍 -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jaime-roncal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ </a>
   <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
