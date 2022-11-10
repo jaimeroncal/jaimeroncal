@@ -5,8 +5,10 @@
 <div id="header" align="center">
      <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
      <a href="https://www.jaimeroncal.com" target="_blank">
-          <img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>
+          <!--<img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>-->
+          <img src="https://user-images.githubusercontent.com/55926526/201090566-15e3f01c-3c4d-4287-85c4-0866cb3a6dfb.png" width="300"/>
      </a>
+     
 </div>
 
 <!-- 😍 SOCIAL MEDIA 😍 -->
