@@ -22,6 +22,9 @@
   <a href="https://twitter.com/jaimeeee14">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.jaimeroncal.com/">
+    <img src="https://img.shields.io/badge/Web Profile-grey?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Web Badge"/>
+  </a>
 </div>
 
 <!-- 👀 VIEWS 👀 -->
