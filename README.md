@@ -6,7 +6,7 @@
      <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
      <a href="https://www.jaimeroncal.com" target="_blank">
           <!--<img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>-->
-          <img src="https://user-images.githubusercontent.com/55926526/201090566-15e3f01c-3c4d-4287-85c4-0866cb3a6dfb.png" width="300"/>
+          <img src="https://github.com/jaimeroncal/jaimeroncal/assets/55926526/479ca210-2579-41d9-b7c0-56ba4d385e04" width="300"/>
      </a>
      
 </div>
@@ -16,15 +16,17 @@
   <a href="https://www.linkedin.com/in/jaime-roncal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
+     <!--
   <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>-->
+<a href="https://www.jaimeroncal.com/">
+    <img src="https://img.shields.io/badge/Web Profile-grey?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Web Badge"/>
   </a>
   <a href="https://twitter.com/jaimeeee14">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.jaimeroncal.com/">
-    <img src="https://img.shields.io/badge/Web Profile-grey?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Web Badge"/>
-  </a>
+
 </div>
 
 <!-- 👀 VIEWS 👀 -->
