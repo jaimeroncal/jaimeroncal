@@ -4,9 +4,9 @@
 <!-- 🦖 DINOSAUR 🦖 -->
 <div id="header" align="center">
      <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
-     <a href="https://www.jaimeroncal.com" target="_blank">
+     <a href="https://www.jaimeroncal.com" target="_blank" rel="noopener noreferrer">
           <!--<img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>-->
-          <img src="https://github.com/jaimeroncal/jaimeroncal/assets/55926526/479ca210-2579-41d9-b7c0-56ba4d385e04" width="300"/>
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55926526/265399095-479ca210-2579-41d9-b7c0-56ba4d385e04.png" width="300"/>
      </a>
      
 </div>
