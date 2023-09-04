@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Initial image styles */
+.hover-image img {
+  content: "";
+  display: block;
+  background-image: url('https://github-production-user-asset-6210df.s3.amazonaws.com/55926526/265399095-479ca210-2579-41d9-b7c0-56ba4d385e04.png'); /* Replace with your GIF URL */
+  width: 300 px; /* Specify the width of your image */
+}
+
+/* GIF styles when hovering over the link */
+.hover-image:hover img {
+  display: none; /* Hide the initial image on hover */
+}
+
+.hover-image:hover::after {
+  content: "";
+  display: block;
+  background-image: url('https://media.revistagq.com/photos/5ca5f6a77a3aec0df5496c59/master/w_1600%2Cc_limit/bob_esponja_9564.png'); /* Replace with your GIF URL */
+  width: 300 px; /* Specify the width of your image */
+}
